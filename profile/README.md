@@ -41,5 +41,5 @@ Ready-to-deploy services you can install with `epm new <name>` and make your own
 
 ---
 
-> **EPS** is a philosophy as much as a stack: own your tools, run them yourself, vibe-code them into exactly what you need.
+> **EPS** is a philosophy as much as a stack: own your tools, run them yourself, vibe-upgrade them into exactly what you need.
 > Get started → `curl -fsSL https://raw.githubusercontent.com/Slam-Dunk-Software/epm/main/install.sh | sh`
