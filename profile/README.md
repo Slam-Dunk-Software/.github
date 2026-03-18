@@ -1,6 +1,6 @@
 # Slam Dunk Software
 
-We build the **Extremely Personal Software** ecosystem — tools for running your own software, on your own machines, without the cloud tax.
+We build the **Extremely Personal Software** ecosystem. Tools for running your own software, on your own machines, without the cloud tax.
 
 ---
 
