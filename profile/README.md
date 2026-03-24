@@ -9,8 +9,6 @@ We build the **Extremely Personal Software** ecosystem. Tools for running your o
 | | |
 |---|---|
 | [**epm**](https://github.com/Slam-Dunk-Software/epm) | Package manager. Install, publish, and manage EPS packages. |
-| [**epc**](https://github.com/Slam-Dunk-Software/epc) | Process supervisor. Deploy packages as persistent local services. |
-| [**eps_mcp**](https://github.com/Slam-Dunk-Software/eps_mcp) | MCP server. Gives Claude authoritative knowledge of the EPS ecosystem. |
 | [**eps_skills**](https://github.com/Slam-Dunk-Software/eps_skills) | Slash commands for Claude Code — semver bumps, releases, and more. |
 | [**eps_docs**](https://github.com/Slam-Dunk-Software/eps_docs) | ADRs, concepts, and guides for the EPS ecosystem. |
 
