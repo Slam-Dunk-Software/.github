@@ -20,13 +20,13 @@ Ready-to-deploy services you can install with `epm new <name>` and make your own
 
 | | |
 |---|---|
-| [**todo**](https://github.com/Slam-Dunk-Software/todo) | Minimal task manager — add, complete, delete, list. |
-| [**notes**](https://github.com/Slam-Dunk-Software/notes) | Minimal notes app — create, edit, search. |
+| [**todo**](https://github.com/Slam-Dunk-Software/todo) | Minimal task manager: add, complete, delete, list. |
+| [**notes**](https://github.com/Slam-Dunk-Software/notes) | Minimal notes app: create, edit, search. |
 | [**crm**](https://github.com/Slam-Dunk-Software/crm) | Personal CRM — contacts, interactions, follow-ups. |
 | [**daily-brief**](https://github.com/Slam-Dunk-Software/daily-brief) | Texts you a summary of open tasks every morning. |
-| [**txtme**](https://github.com/Slam-Dunk-Software/txtme) | SMS notification endpoint — POST here to send yourself a text. |
-| [**webterm**](https://github.com/Slam-Dunk-Software/webterm) | Web terminal with command palette — access your machine from any browser. |
-| [**observatory**](https://github.com/Slam-Dunk-Software/observatory) | Health monitoring dashboard — watches your EPC services. |
+| [**txtme**](https://github.com/Slam-Dunk-Software/txtme) | SMS notification endpoint. POST here to send yourself a text. |
+| [**shell**](https://github.com/Slam-Dunk-Software/shell) | Web terminal with command palette. Access your machine from any browser. |
+| [**observatory**](https://github.com/Slam-Dunk-Software/observatory) | Health monitoring dashboard. Watches your EPC services. |
 
 ---
 
